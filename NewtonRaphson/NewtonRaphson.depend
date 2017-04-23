@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492954081 source:g:\redrock\programming\c\newtonraphson\main.c
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

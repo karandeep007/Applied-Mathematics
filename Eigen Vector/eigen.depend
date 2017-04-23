@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490099285 source:g:\redrock\programming\c++\eigen\main.c
+	<stdio.h>
+	<stdlib.h>
+

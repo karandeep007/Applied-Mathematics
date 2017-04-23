@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487050884 source:g:\redrock\programming\c\rk 4th order integral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

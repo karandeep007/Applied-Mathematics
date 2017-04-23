@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487013711 source:g:\redrock\programming\c\trapezoidal integral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
